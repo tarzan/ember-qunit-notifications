@@ -1,0 +1,10 @@
+{
+  "name": "ember-qunit-notifications",
+  "version": "0.1.0",
+  "description": "Tomster-ified qunit-notifications",
+  "license": "MIT",
+  "author": "Brian Cardarella <bcardarella@gmail.com>",
+  "dependencies": {
+    "qunit-notifications": "~0.1.0"
+  }
+}
